@@ -107,6 +107,7 @@ SMART知識台
 靖天日本台
 靖天戲劇台
 靖洋戲劇台
+KLT-靖天國際台
 樂活頻道
 CATCHPLAY電影台
 視納華仁紀實台
@@ -197,5 +198,82 @@ AXN
 Animax
 尼克兒童頻道
 Nick Jr
+MTV Live
+Dreamworks
+TV5MONDE ASIE
+TV5MONDE Style HD
+FRANCE 24
+DW
+Euronews
+半島英語新聞台
+亞洲新聞台
+阿里郎電視台
+彭博電視
+歷史頻道
+罪案偵緝頻道
+Lifetime
+達文西頻道
+amc電影台
+美亞電影台
+CinemaWorld
+Hits
+奢華頻道
+韓國娛樂台
+古典音樂台
+Stingray CMusic
+Mezzo Live
+Trace Urban
+Trace Sport Stars
+時尚頻道
+DAZN 1
+DAZN 2
+DAZN 3
+My Cinema Europe HD 我的歐洲電影
+ABC Australia
+tvN
+ROCK Extreme
+ROCK Entertainment
+ROCK Action
+Love Nature 4K
+Global Trekker
+PET CLUB TV
+國興衛視
+JET綜合台
+VIVA TV 1台
+運通財經台
+SBN全球財經網頻道
+三聖電視台
+彰化地方台
+彰化資訊台
+三大一台
+彰化綜合台
+大台中生活台
+大揚生活台
+大揚自製台
+大新店生活台
+天天購物台
+大豐電視台
+彩虹頻道
+潘朵啦高畫質玩美台
+潘朵啦高畫質粉紅台
+K頻道
+May Life 購物台
+寰宇新聞台
+寰宇財經台
+寰宇新聞台灣台
+靖天購物一台
+高雄都會台
+紅豆2台
+滾動力 rollor
+
+
+
+
+
+
+
+
+
+
 
 
