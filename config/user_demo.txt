@@ -1,281 +1,41 @@
 台灣,#genre#
-台視
-台視新聞
-台視財經
-台視綜合
-中視
-中視新聞
-中視經典
-中視菁采
-華視
-華視教育體育文化
-華視新聞資訊
-國會頻道1
-國會頻道2
-民視
-民視第一台
-民視新聞台
-民視台灣台
-民視綜藝
-民視影劇
-民視旅遊
-公視
-公視台語台
-Taiwan Plus
-小公視
-公視戲劇
-客家電視
-原住民族電視
-人間衛視
-大愛
-大愛二台
-霹靂台灣台
-LS龍祥電影台
-好消息
-好消息二台
-MOMO綜合台
-MOMO親子台
-MOMO購物1台
-MOMO購物2台
-八大第一台
-八大綜合台
-八大戲劇台
-八大優頻道
-八大娛樂台
-三立台灣台
-三立都會台
-三立新聞台
-三立iNEWS
-三立戲劇台
-三立綜合台
-MTV
-東森綜合
-東森新聞
-東森財經新聞
-東森電影
-東森戲劇
-東森幼幼
-東森洋片
-東森超視
-東森購物1台
-東森購物2台
-東森購物3台
-東森購物4台
-東森購物5台
-ETtoday綜合台
-高點綜合台
-高點育樂台
-年代新聞
-年代MUCH
-壹綜合
-壹新聞
-壹電影
-中天綜合
-中天娛樂
-中天亞洲
-TVBS
-TVBS歡樂台
-TVBS新聞台
-TVBS-ASIA	
-TVBS精采台
-非凡新聞
-非凡商業
-好萊塢電影台
-亞洲旅遊台
-亞洲綜合台	
-美食星球
-梅迪奇藝術頻道
-博斯魅力
-博斯網球
-博斯無限
-博斯無限二台
-博斯運動一台
-博斯運動二台
-博斯高球一台
-博斯高球二台
-SMART知識台
-台灣戲劇台
-龍華動畫
-龍華戲劇
-龍華偶像
-龍華電影
-龍華影劇	
-龍華洋片
-龍華經典
-靖洋卡通台
-靖天資訊台
-靖天日本台
-靖天戲劇台
-靖洋戲劇台
-KLT-靖天國際台
-樂活頻道
-CATCHPLAY電影台
-視納華仁紀實台
-采昌影劇台
-華藝影劇台
-華藝台灣台
-華藝中文台
-智林體育台
-幸福空間居家台
-Z頻道
-新唐人亞太台
-鏡電視新聞台
-十方法界電視台
-佛衛慈悲台
-華藏衛星電視台
-世界電視台
-生命電視台
-希望綜合台
-新天地民俗台
-天美麗電視台
-台灣綜合台
-台灣藝術電視台
-雙子衛視
-信大電視台
-番薯電視台
-信吉電視台
-信吉藝文電視台
-天良﻿電視台
-大立電視台
-誠心電視台
-富立電視台
-全大電視台
-威達超舜生活台
-海豚綜合台
-唯心電視台
-冠軍電視台
-冠軍夢想台
-中台灣生活網
-A-One體育台
-HOT頻道
-玩家頻道
-HAPPY頻道
-彩虹E台
-彩虹電影台
-松視1台
-松視2台
-松視3台
-松視4台
-驚豔成人電影台
-香蕉台
-緯來日本
-緯來體育
-緯來綜合
-緯來育樂
-緯來戲劇
-緯來電影
-緯來精采
-寶島文化台
-BBC News
+amc電影台
+Animax
+ARIRANG阿里郎頻道
+AXN
 BBC Earth
 BBC Lifestyle
-CBeebies
-NHK World Premium
-NHK World
-CNN
-CN卡通頻道
-Warner TV
+BBC News
+Bloomberg
 CARTOONITO
-Cinemax
-HBO
-HBO HD
-HBO原創巨獻
-HBO溫馨家庭
-HBO強檔鉅獻
-Discovery
-Discovery科學頻道
-動物星球
-TLC
-達文西頻道
-DMAX
-Eve
-歐洲體育台
-Travel Channel
-亞洲美食頻道
-美食頻道
-HGTV居家樂活頻道
-AXN
-Animax
-尼克兒童頻道
-Nick Jr
-MTV Live
-Dreamworks
-TV5MONDE ASIE
-TV5MONDE Style HD
-FRANCE 24
-DW
-Euronews
-半島英語新聞台
-亞洲新聞台
-阿里郎電視台
-彭博電視
-歷史頻道
-罪案偵緝頻道
-Lifetime
-達文西頻道
-amc電影台
-美亞電影台
+CATCHPLAY電影台
+CBeebies
+Channel NewsAsia
+CI 罪案偵查頻道
 CinemaWorld
-Hits
-奢華頻道
-韓國娛樂台
-古典音樂台
-Stingray CMusic
-Mezzo Live
-Trace Urban
-Trace Sport Stars
-時尚頻道
+CINEMAX
+CMusic
+CNBC Asia
+CNN
 DAZN 1
 DAZN 2
 DAZN 3
-My Cinema Europe HD 我的歐洲電影
-ABC Australia
-tvN
-ROCK Extreme
-ROCK Entertainment
-ROCK Action
-Love Nature 4K
-Global Trekker
-PET CLUB TV
-寰宇HD綜合台
-寰宇新聞台
-寰宇新聞台灣台
-寰宇財經台
-VIVA TV 1台
-美好2台
-運通財經台
-JStar極限台電影頻道
-May Life 購物台
-彩虹頻道
-K頻道
-潘朵啦高畫質玩美台
-潘朵啦高畫質粉紅台
-三聖電視台
-曼迪日本台
-國興衛視
-JET綜合台
-VIVA TV 1台
-運通財經台
-SBN全球財經網頻道
-三聖電視台
-彰化地方台
-彰化資訊台
-三大一台
-彰化綜合台
-大台中生活台
-大揚生活台
-大揚自製台
-大新店生活台
-天天購物台
-大豐電視台
-
-
-
-
-
-
-
-
-
-
-
+Discovery
+Discovery Asia
+Discovery科學頻道
+DMAX
+DREAMWORKS
+DreamWorks 夢工廠動畫
+DW德國之聲
+ELTV生活英語台
+ETtoday綜合台
+Euronews
+EUROSPORT
+EVE
+EYE TV戲劇台
+EYE TV旅遊台
+FashionTV 時尚頻道
+Food Network 美食台
+FRANCE24 英文台
+FRANCE24 法文台
+Fun探索娛樂台
